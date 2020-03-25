@@ -1,0 +1,5 @@
+nodejs
+express
+nodemon
+knex
+sqlite3
