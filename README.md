@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-O projeto Be The Hero visa ajudar ONG's a cadastrar e compartilhar casos que necessitem de ajuda. Através de um sistema WEB a ONG cadastra um caso e informa o valor que precisa e outros usuários através de um aplicativo mobile podem entrar em contato por email ou whatsapp oferencendo o valor necessário.
+O projeto Be The Hero visa ajudar ONG's a cadastrar e compartilhar casos que necessitem de ajuda. Através de um sistema WEB a ONG cadastra um caso e informa o valor que precisa e outros usuários através de um aplicativo mobile podem entrar em contato por email ou whatsapp oferecendo o valor necessário.
 
 ### Construído com:
 As estruturas que o projeto contempla são:
